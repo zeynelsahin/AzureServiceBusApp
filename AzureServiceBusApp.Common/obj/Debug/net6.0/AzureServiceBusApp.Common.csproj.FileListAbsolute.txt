@@ -1,0 +1,12 @@
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\bin\Debug\net6.0\AzureServiceBusApp.Common.deps.json
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\bin\Debug\net6.0\AzureServiceBusApp.Common.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\bin\Debug\net6.0\AzureServiceBusApp.Common.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\obj\Debug\net6.0\AzureServiceBusApp.Common.csproj.AssemblyReference.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\obj\Debug\net6.0\AzureServiceBusApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\obj\Debug\net6.0\AzureServiceBusApp.Common.AssemblyInfoInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\obj\Debug\net6.0\AzureServiceBusApp.Common.AssemblyInfo.cs
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\obj\Debug\net6.0\AzureServiceBusApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\obj\Debug\net6.0\AzureServiceBusApp.Common.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\obj\Debug\net6.0\refint\AzureServiceBusApp.Common.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\obj\Debug\net6.0\AzureServiceBusApp.Common.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.Common\obj\Debug\net6.0\ref\AzureServiceBusApp.Common.dll

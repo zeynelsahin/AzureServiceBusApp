@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sIv40v6hK6zs4SNP5KncZjAdkRTW80cvUbY9eyRxjSI=",
+  "Source": "AzureServiceBusApp.ProducersApi",
+  "BasePath": "_content/AzureServiceBusApp.ProducersApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
