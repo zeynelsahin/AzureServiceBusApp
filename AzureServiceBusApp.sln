@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureServiceBusApp.Producer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureServiceBusApp.Common", "AzureServiceBusApp.Common\AzureServiceBusApp.Common.csproj", "{DBE6EDF1-703B-43D9-B083-373091777764}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureServiceApp.Consumer", "AzureServiceApp.Consumer\AzureServiceApp.Consumer.csproj", "{A5A1B3B6-8553-4743-9DBB-ADE88DECCBBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{DBE6EDF1-703B-43D9-B083-373091777764}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBE6EDF1-703B-43D9-B083-373091777764}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBE6EDF1-703B-43D9-B083-373091777764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A1B3B6-8553-4743-9DBB-ADE88DECCBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A1B3B6-8553-4743-9DBB-ADE88DECCBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A1B3B6-8553-4743-9DBB-ADE88DECCBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A1B3B6-8553-4743-9DBB-ADE88DECCBBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -5,7 +5,9 @@
     <projectFile profileName="IIS Express">AAzurServiceBusApp.ProducersApi/AAzurServiceBusApp.ProducersApi.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="301d7655-05cb-4bbe-9ccf-140de28aafde" name="Changes" comment="" />
+    <list default="true" id="301d7655-05cb-4bbe-9ccf-140de28aafde" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AzurServiceBusApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AzurServiceBusApp/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CDgnmguloFqrC93TQnib1O797n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -69,14 +72,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658342739694</updated>
-      <workItem from="1658342755949" duration="2721000" />
+      <workItem from="1658342755949" duration="3690000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

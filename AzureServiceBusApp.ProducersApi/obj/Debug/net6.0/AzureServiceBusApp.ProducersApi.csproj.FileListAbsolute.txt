@@ -37,3 +37,6 @@ C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\Az
 C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.ProducersApi\obj\Debug\net6.0\AzureServiceBusApp.ProducersApi.pdb
 C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.ProducersApi\obj\Debug\net6.0\AzureServiceBusApp.ProducersApi.genruntimeconfig.cache
 C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.ProducersApi\obj\Debug\net6.0\ref\AzureServiceBusApp.ProducersApi.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.ProducersApi\bin\Debug\net6.0\Microsoft.Azure.Management.ServiceBus.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.ProducersApi\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\AzurServiceBusApp\AzureServiceBusApp.ProducersApi\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll

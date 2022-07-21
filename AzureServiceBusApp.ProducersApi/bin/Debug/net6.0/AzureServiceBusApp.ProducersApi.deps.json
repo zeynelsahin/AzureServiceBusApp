@@ -9,6 +9,7 @@
       "AzureServiceBusApp.ProducersApi/1.0.0": {
         "dependencies": {
           "AzureServiceBusApp.Common": "1.0.0",
+          "Microsoft.Azure.Management.ServiceBus": "4.0.0",
           "Microsoft.Azure.ServiceBus": "5.2.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
@@ -25,6 +26,20 @@
           "lib/netstandard2.0/Microsoft.Azure.Amqp.dll": {
             "assemblyVersion": "2.4.0.0",
             "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "Microsoft.Azure.Management.ServiceBus/4.0.0": {
+        "dependencies": {
+          "Microsoft.Rest.ClientRuntime": "2.3.20",
+          "Microsoft.Rest.ClientRuntime.Azure": "3.3.19",
+          "Newtonsoft.Json": "10.0.3",
+          "System.Net.Http": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Azure.Management.ServiceBus.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
           }
         }
       },
@@ -152,6 +167,29 @@
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
             "assemblyVersion": "1.2.3.0",
             "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "Microsoft.Rest.ClientRuntime/2.3.20": {
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.3.20.0"
+          }
+        }
+      },
+      "Microsoft.Rest.ClientRuntime.Azure/3.3.19": {
+        "dependencies": {
+          "Microsoft.Rest.ClientRuntime": "2.3.20",
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Rest.ClientRuntime.Azure.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.3.18.0"
           }
         }
       },
@@ -1166,6 +1204,13 @@
       "path": "microsoft.azure.amqp/2.4.11",
       "hashPath": "microsoft.azure.amqp.2.4.11.nupkg.sha512"
     },
+    "Microsoft.Azure.Management.ServiceBus/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UOaq3NLZLXz7O3YzvF4C+mvDa9GDcPnckbw/vwI3ahmK9ujCEPo2Zw0w2ipFuIl3h9dj6VkHsq/UGN42rctuiQ==",
+      "path": "microsoft.azure.management.servicebus/4.0.0",
+      "hashPath": "microsoft.azure.management.servicebus.4.0.0.nupkg.sha512"
+    },
     "Microsoft.Azure.ServiceBus/5.2.0": {
       "type": "package",
       "serviceable": true,
@@ -1242,6 +1287,20 @@
       "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
       "path": "microsoft.openapi/1.2.3",
       "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
+    },
+    "Microsoft.Rest.ClientRuntime/2.3.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bw/H1nO4JdnhTagPHWIFQwtlQ6rb2jqw5RTrqPsPqzrjhJxc7P6MyNGdf4pgHQdzdpBSNOfZTEQifoUkxmzYXQ==",
+      "path": "microsoft.rest.clientruntime/2.3.20",
+      "hashPath": "microsoft.rest.clientruntime.2.3.20.nupkg.sha512"
+    },
+    "Microsoft.Rest.ClientRuntime.Azure/3.3.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+NVBWvRXNwaAPTZUxjUlQggsrf3X0GbiRoxYfgc3kG9E55ZxZxvZPT3nIfC4DNqzGSXUEvmLbckdXgBBzGdUaA==",
+      "path": "microsoft.rest.clientruntime.azure/3.3.19",
+      "hashPath": "microsoft.rest.clientruntime.azure.3.3.19.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",
